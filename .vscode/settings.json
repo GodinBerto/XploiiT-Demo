@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 11,
+  "editor.wordWrap": "on",
+  "editor.codeActions.triggerOnFocusChange": true
+}
